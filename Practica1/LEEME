@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------
+LEEME
+-----------------------------------------------------------------------------------------------
+
+Programa que permite elaborar el efecto borroso de una imagen con hilos.
+
+Para iniciar, escribir make en la terminal para compilar y a continuación ejecutar el archivo 
+script llamado script_ejecutar_todo.sh
+
